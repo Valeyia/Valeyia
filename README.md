@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Valeyia
-- 👀 I’m interested in Data Sciene, Big data abd Masrketing
+- 👀 I’m interested in Data Sciene, Big data and Marketing
 - 🌱 I’m currently learning Data Science
 
 
