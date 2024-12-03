@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valeкia
+- 👋 Hi, I’m @Valeria
 - 👀 I’m interested in Data Scienсe, Big data and Marketing
 - 🌱 I’m currently learning Data Science
 
